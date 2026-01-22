@@ -1,0 +1,27 @@
+:root {
+   --primary:#ffa200;
+   --secondary:#e9011d;
+   --white:#fff;
+   --black:#000;
+}
+
+* {margin: 0;padding: 0;box-sizing: border-box;}
+html,body {scroll-behavior: smooth;width: 100%;overflow-x: hidden;}
+ul{list-style: none;}
+
+
+/* header */
+
+.head-main {
+    display: flex;
+    align-items: center;
+}
+
+.head-lft {
+    flex: 0 1 40%;
+    background: var(--secondary);
+}
+
+.logo{max-width: 120px;}
+.logo img {width: 100%;}
+.head-rht{flex:0 1 60%;background: var(--primary);}

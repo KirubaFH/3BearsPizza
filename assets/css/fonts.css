@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Ephesis';
+    src: url('fonts/Ephesis-Regular.eot');
+    src: url('fonts/Ephesis-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Ephesis-Regular.woff2') format('woff2'),
+        url('fonts/Ephesis-Regular.woff') format('woff'),
+        url('fonts/Ephesis-Regular.ttf') format('truetype'),
+        url('fonts/Ephesis-Regular.svg#Ephesis-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marcellus';
+    src: url('fonts/MarcellusSC-Regular.eot');
+    src: url('fonts/MarcellusSC-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MarcellusSC-Regular.woff2') format('woff2'),
+        url('fonts/MarcellusSC-Regular.woff') format('woff'),
+        url('fonts/MarcellusSC-Regular.ttf') format('truetype'),
+        url('fonts/MarcellusSC-Regular.svg#MarcellusSC-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stint';
+    src: url('fonts/StintUltraCondensed-Regular.eot');
+    src: url('fonts/StintUltraCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/StintUltraCondensed-Regular.woff2') format('woff2'),
+        url('fonts/StintUltraCondensed-Regular.woff') format('woff'),
+        url('fonts/StintUltraCondensed-Regular.ttf') format('truetype'),
+        url('fonts/StintUltraCondensed-Regular.svg#StintUltraCondensed-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
